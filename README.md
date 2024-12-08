@@ -7,13 +7,14 @@ This project analyzes the factors influencing students' impulse buying behavior 
 - **Data Preprocessing & Cleaning**: Preparing the dataset for analysis.
 - **Exploratory Data Analysis (EDA)**: Visualizing and understanding patterns in the data.
 - **Statistical Testing**: Identifying significant factors influencing buying behavior.
-- **Predictive Modeling**: Building models to forecast impulse buying tendencies.
-- **Data Visualization**: Presenting results through charts and graphs.
+- **Predictive Modeling**: Using the **Random Forest** algorithm to predict impulse buying behavior.
+- **Data Visualization**: Creating visualizations using **Power BI** to present insights.
 
 ### Technologies Used:
-- **Python** (Pandas, NumPy) for data manipulation
-- **SciKit-Learn** for machine learning algorithms
-- **Seaborn & Matplotlib** for data visualization
+- **Power BI** for visualizations and modeling
+- **Python** (Random Forest) for machine learning algorithms
+- **Pandas & NumPy** for data manipulation
+- **Seaborn & Matplotlib** for additional visualization
 
 This analysis provides actionable insights to help businesses optimize their marketing strategies on TikTok and similar e-commerce platforms.
 
